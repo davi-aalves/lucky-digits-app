@@ -86,3 +86,16 @@ button:hover {
 button:active {
 	opacity: 0.8;
 }
+
+@media screen and (max-width: 800px){
+  .inputs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .input-min {
+    margin: 0 0 25px 0
+  }
+}
