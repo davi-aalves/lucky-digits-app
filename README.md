@@ -4,7 +4,7 @@
 
 ## Demonstração
 
-Confira a aplicação em ação [aqui]([https://davi-aalves.github.io/lucky-digits-app/]).
+Confira a aplicação em ação [aqui](https://davi-aalves.github.io/lucky-digits-app/).
 
 ## Como Usar
 
