@@ -4,6 +4,7 @@
 
 ## Demonstração
 
+<img src="/assets/images/lucky-digits.gif" alt="Exemplo animado de como usar o sorteador de números aleatórios" style="width: 100%;">
 Confira a aplicação em ação [aqui](https://davi-aalves.github.io/lucky-digits-app/).
 
 ## Como Usar
@@ -21,10 +22,6 @@ Confira a aplicação em ação [aqui](https://davi-aalves.github.io/lucky-digit
 - **HTML:** Estruturação da página para um layout claro e lógico.
 - **CSS:** Estilização para criar um design atraente e responsivo.
 - **JavaScript:** Implementação da funcionalidade de geração de números aleatórios.
-
-## Instalação
-
-Nenhuma instalação é necessária. Abra o arquivo `index.html` em um navegador da web para começar a usar **Lucky Digits**.
 
 ## Contribuições
 
